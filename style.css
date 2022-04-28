@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(pink, rgb(201, 241, 107));
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(176, 130, 179);
+    text-align: center;
+    background: linear-gradient(to right, pink, rgb(136, 216, 236), pink);
+    text-shadow: 1px 1px rgb(99, 49, 99);
+}
+
+.links {
+    display: table;
+    color: rgb(112, 40, 86);
+    background: linear-gradient(to right, pink, rgb(115, 241, 199), pink);  
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px groove springgreen;
+}
